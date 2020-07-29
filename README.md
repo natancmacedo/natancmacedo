@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-natancmacedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natancmacedo/)](https://www.linkedin.com/in/natancmacedo/)
-[![Telegram Badge](https://img.shields.io/badge/-natancmacedo-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=white&link=https://t.me/natancmacedo)](https://t.me/natancmacedo)
+[![Telegram Badge](https://img.shields.io/badge/-natancmacedo-2CA5E0?style=flat-square&labelColor=white&logo=telegram&logoColor=white&link=https://t.me/natancmacedo)](https://t.me/natancmacedo)
 
 
 I'm Natan, a C# developer that loves to solve problems
